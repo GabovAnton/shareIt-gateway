@@ -1,0 +1,34 @@
+[
+  {
+    "id": 2,
+    "name": "Отвертка",
+    "description": "Аккумуляторная отвертка",
+    "available": true,
+    "requestId": null,
+    "lastBooking": null,
+    "nextBooking": null,
+    "comments": [],
+    "owner": {
+      "id": 4,
+      "name": "user",
+      "email": "user@user.com",
+      "registrationDate": null
+    }
+  },
+  {
+    "id": 3,
+    "name": "Клей Момент",
+    "description": "Тюбик суперклея марки Момент",
+    "available": true,
+    "requestId": null,
+    "lastBooking": null,
+    "nextBooking": null,
+    "comments": [],
+    "owner": {
+      "id": 4,
+      "name": "user",
+      "email": "user@user.com",
+      "registrationDate": null
+    }
+  }
+]
